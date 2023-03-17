@@ -1,0 +1,69 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin:0;
+}
+#top{
+    background-color: grey;
+    text-align: center;
+    color: whitesmoke;
+    padding: 10px , 20px;
+    margin-bottom: 30px;    
+}
+h1, h4, p{
+    margin: 0;
+}
+#main h1{
+    margin-bottom: 10px;
+}
+#main{
+    padding:0 320px 0 20px;
+    line-height: 25px;
+    width: 650px;
+    font-size: 20;
+}
+#main h1{
+    font-size: 30;
+    padding: 0 0 10px 0px
+}
+#main img{
+    margin: 10px 0 15px;
+    width: 500px;
+    margin-top: 20px;
+}
+.question{
+    position: relative;
+}
+#form{
+    position: absolute;
+    right: 280;
+    top: -300;
+}
+#form h4{
+    font-size:20px;
+    margin-top:0;
+}
+#fomr form{
+    font-size:20;
+    margin: 0 0 10px 10px;
+}
+#form ul{
+    font-size:20px;;
+    margin-top:0;
+}
+#bottom{
+    position: absolute;
+    right:100;
+    top:-650;
+    width: 500px;
+    font-size: 20px;
+    padding: 0 0 30px 30px;
+}
+#bottom h3{
+    margin-top: -60px;
+    font-size: 30;
+    padding: 0 0 10px 0 px
+}
+#bottom img{
+    width: 200px;
+    margin-top: 20px;
+}
